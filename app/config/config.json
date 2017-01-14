@@ -1,0 +1,13 @@
+{
+	"port": 2000,
+	"mongoose": {
+		"uri" : "mongodb://rauan_51:rauan9796@ds161487.mlab.com:61487/rauansatanbek-android",
+		"options": {
+			"server": {
+				"socketOptions": {
+					"keepAlive": 1
+				}
+			}
+		}
+	}
+}
